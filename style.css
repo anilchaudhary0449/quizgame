@@ -383,3 +383,9 @@ footer button.show{
     color: red;
     background: #007bff;
 }
+.footer {
+  background-color: #37383a;
+  color: #fefefe;
+  padding: 0.2rem;
+  text-align: center;
+}
